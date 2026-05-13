@@ -1,0 +1,196 @@
+The following is the complete text from the Conversion Rate Optimization (CRO) audit report for Bathamaga Property:
+
+### **Report Overview**
+
+* **Audit Type**: World-class CRO audit · May 2026
+* **Project**: Bathamaga Property — Conversion audit
+* **Estimated Current Score**: 31 / 120
+* **World-class Target**: 84 / 120
+* **Findings Identified**: 21
+
+---
+
+### **12-Dimension Scorecard**
+
+* **Data sources**: 1/10 (Danger)
+* **Revenue impact**: 0/10 (Danger)
+* **User behaviour**: 3/10 (Warn)
+* **Persona analysis**: 0/10 (Danger)
+* **Finding specificity**: 5/10 (Warn)
+* **Fix prescription**: 4/10 (Warn)
+* **A/B test framework**: 1/10 (Danger)
+* **Prioritisation**: 4/10 (Warn)
+* **Mobile / device**: 3/10 (Warn)
+* **Competitive bench**: 1/10 (Danger)
+* **Roadmap / governance**: 2/10 (Danger)
+* **Reporting / metrics**: 2/10 (Danger)
+
+---
+
+### **Detailed Findings (Priority Order)**
+
+#### **Phase 1 · Quick Wins**
+
+* **Finding #1 — Headline fails the 5-second test (Critical)**
+* **Observation**: The hero headline "The Home of Quality Rentals and Sales in South Africa" is a category statement, not a value proposition. It fails to explain why a user should choose Bathamaga over competitors.
+* **Fix**: Replace with a benefit-led statement naming a specific promise (e.g., "Find verified rooms and flats in Gauteng — from R2,000/month"). Run a 50-respondent 5-second test.
+
+
+* **Finding #2 — Hero search form has no submit CTA above the fold (Critical)**
+* **Observation**: The search button is likely below the fold on desktop and definitely on mobile, making the primary conversion action invisible at the moment of highest intent.
+* **Fix**: Move the search button into the hero viewport. Ensure a contrast ratio ≥ 4.5:1.
+
+
+* **Finding #3 — Two audiences, zero segmentation at hero (Critical)**
+* **Observation**: The site serves both tenants and landlords but addresses them simultaneously with generic copy, suppressing conversion rates for both.
+* **Fix**: Add a two-path entry point: "I'm looking for a property" vs "I want to advertise my property".
+
+
+* **Finding #4 — Testimonials lack attribution completeness (High)**
+* **Observation**: Faceless testimonials lose 40–60% of their trust impact. Current reviews lack specific outcomes (e.g., "tenanted in 4 days").
+* **Fix**: Add verified profile photos and rewrite testimonials to include specific, measurable outcomes.
+
+
+* **Finding #5 — Property card images are low-quality and inconsistent (High)**
+* **Observation**: Low-quality photography (dark rooms, exposed wiring) signals a low-trust platform. Stock photography in category sections creates a mismatch with reality.
+* **Fix**: Require minimum photo standards for landlords and replace stock imagery with real listings.
+
+
+* **Finding #6 — No risk-reversal or trust signals on advertise CTA (High)**
+* **Observation**: There is zero micro-copy to reduce perceived risk (pricing, commitment, or process) near the landlord CTA.
+* **Fix**: Add trust tokens like "From R99/month · No contract · Cancel anytime".
+
+
+* **Finding #7 — Navigation leaks for paid / search traffic (High)**
+* **Observation**: Full navigation menus on landing pages bleed paid traffic away from the intended conversion.
+* **Fix**: Create a dedicated landing page variant for paid traffic with stripped navigation and a single CTA.
+
+
+
+#### **Phase 2 · Structural**
+
+* **Finding #8 — Property card CTAs are passive and vague (High)**
+* **Observation**: Listing cards lack a visible, action-oriented CTA, leaving tenants wondering if they can enquire immediately.
+* **Fix**: Add "Enquire now" or "View & contact" buttons to each card.
+
+
+* **Finding #9 — "For Sale" section has zero listed properties (High)**
+* **Observation**: An empty primary category damages platform credibility.
+* **Fix**: Remove "For Sale" from primary navigation until at least 10 listings exist.
+
+
+* **Finding #10 — No urgency or scarcity signals on listings (Medium)**
+* **Observation**: The absence of signals like "3 people viewing this" allows for indefinite browsing without commitment.
+* **Fix**: Add time-on-market and active enquiry signals to listing cards.
+
+
+* **Finding #11 — No visible geographic reach signal (Medium)**
+* **Observation**: The platform's actual reach is unclear, which may deter users looking outside of Soweto.
+* **Fix**: Add a map or area tag cloud communicating coverage across Gauteng.
+
+
+* **Finding #12 — "Members" nav item has no clear value signal (Medium)**
+* **Observation**: Ambiguity regarding the "Members" link creates a conversion tax.
+* **Fix**: Rename to "Landlord login" or "Sign in".
+
+
+* **Finding #13 — Testimonial section has no conversion CTA (Medium)**
+* **Observation**: There is no "closing moment" CTA at the point of highest conviction after reading social proof.
+* **Fix**: Add a CTA section immediately below testimonials for both tenants and landlords.
+
+
+* **Finding #14 — Category carousel is stock photography (Medium)**
+* **Observation**: Luxury stock photos contrast poorly with actual affordable housing listings, creating a trust gap.
+* **Fix**: Replace stock photos with real "best-in-class" listings or illustrated icons.
+
+
+* **Finding #15 — Price per month is the only metadata on listing cards (Medium)**
+* **Observation**: Tenants cannot qualify listings (beds/baths) without clicking through, increasing friction.
+* **Fix**: Add metadata icons for bed count, bath count, and key inclusions.
+
+
+
+#### **Phase 3 · Systemic**
+
+* **Finding #16 — No retargeting signal visible (High)**
+* **Observation**: Non-converting visitors are not being re-reached, representing a massive missed revenue opportunity.
+* **Fix**: Install Facebook Pixel and Google Ads remarketing tags with event-level tracking.
+
+
+* **Finding #17 — No trust badge or verification system visible (Medium)**
+* **Observation**: Green checkmarks are unexplained, providing no benefit in a market where scams are a concern.
+* **Fix**: Define and publish a verification standard (e.g., "ID-verified landlord").
+
+
+* **Finding #18 — No visible search result count or listing volume (Medium)**
+* **Observation**: Displaying small counts (e.g., "4 Properties") communicates a sparse marketplace.
+* **Fix**: Remove low category counts and replace them with aggregate signals like "1,200+ verified listings".
+
+
+* **Finding #19 — Contact bar is desktop-only in accessibility (Medium)**
+* **Observation**: The contact bar is likely hidden on mobile, where click-to-call is a high-conversion action.
+* **Fix**: Pin a floating "Call us" button on mobile.
+
+
+* **Finding #20 — No structured A/B testing framework (Medium)**
+* **Observation**: Design changes are based on opinion rather than data.
+* **Fix**: Implement a testing framework like Google Optimize or VWO.
+
+
+* **Finding #21 — No landlord-specific social proof (Medium)**
+* **Observation**: Landlords lack proof of outcomes, such as typical time-to-tenant stats.
+* **Fix**: Add stats like "Average 4 enquiries per listing in week one".
+
+
+
+---
+
+### **Pre-delivery Gate Check**
+
+* **Total findings identified**: Pass — 21
+* **Revenue quantification score**: Fail — baseline MRR not confirmed
+* **Data citation rate**: Partial — visual evidence only
+* **Causal chain on all findings**: Pass
+* **A/B test card per finding**: Partial
+* **Success metrics defined**: Fail — requires baseline CVR data
+* **3-phase roadmap present**: Pass
+* **Competitive mobile benchmarks**: Fail — requires device data
+
+---
+
+### **3-Phase Roadmap**
+
+#### **Phase 1: Weeks 1–3 (Quick Wins)**
+
+* Rewrite hero headline
+* Fix search CTA visibility
+* Add trust micro-copy to advertise CTA
+* Add profile photos and outcome-specific copy to testimonials
+* Add CTA section post-testimonials
+* Add click-to-call on mobile
+
+#### **Phase 2: Weeks 4–8 (Structural)**
+
+* Build two-path persona segmentation
+* Add listing card metadata and enquire CTAs
+* Replace stock category photography
+* Audit/fix For Sale section
+* Add urgency signals and publish verification standards
+
+#### **Phase 3: Months 3–6 (Systemic)**
+
+* Install retargeting infrastructure and build audiences
+* Set up A/B testing framework and run tests
+* Build landlord outcome stats section
+* Define success metrics and establish monthly review cadence
+
+---
+
+### **Required Data Stack (Before Revenue Modelling)**
+
+* 90+ days GA4 data (segmented by device/source)
+* 200+ session recordings per key page
+* 5-second hero test (50+ respondents)
+* 3-question exit-intent survey
+* Baseline Conversion Rate (CVR) and traffic split data
+* Retargeting pixel coverage audit
